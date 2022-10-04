@@ -20,3 +20,5 @@
 
 5.MVC架构
 
+优化架构图：
+![image-20221004141512239](https://github.com/nacey5/oes/blob/master/image.png)
